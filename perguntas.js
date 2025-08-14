@@ -1,22 +1,22 @@
 criaCartao(
     'Enfermagem',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a principal função do enfermeiro em uma unidade de saúde?',
+    'Prestar cuidados de enfermagem e supervisionar a equipe de saúde'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Enfermagem',
+    'O que significa o termo "asepsia"?',
+    'Conjunto de práticas para evitar a entrada de microrganismos em locais estéreis'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Enfermagem',
+    'Qual o local ideal para aplicar uma injeção intramuscular?',
+    'Região glútea, vasto lateral da coxa ou deltoide (ombro)'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Enfermagem',
+    'O que deve ser feito antes de administrar qualquer medicamento?',
+    'Conferir os 5 certos: paciente certo, medicamento certo, dose certa, via certa e horário certo'
 )
