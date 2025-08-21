@@ -6,7 +6,7 @@
 }
 
 body {
-background-color: url('bg-desktop.webp');
+background-color: url('fundo-de-menta-aquarela_23-2150238643.avif');
 font-family: Bai Jamjuree;
 }
 #container {
@@ -99,7 +99,7 @@ footer p{
 @media (max-width: 560px) {
 
     body {
-        background: url('bg-mobile.jpg');
+        background: url('fundo-realista-de-brilho-turquesa_23-2150002698.avif');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
